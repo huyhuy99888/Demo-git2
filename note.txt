@@ -1,0 +1,8 @@
+1.git clone: kéo dự án trên sever về máy tính
+cách1: terminal
+cách 2:nO PRO > TERMINAL
+cách3: ctrl shift ~
+2.git init: để đến sourch mình (khởi tạo thư mục git local)
+3.git status: check thử file nào acc vô,nào chưa (kiểm tra status của file)
+4.git add . : là đưa tất cả các file có sự  thay đổi vào vùng stayzing
+5. git add [ten_file] : đưa 1 file có sự thay đổi vào vùng stayging
